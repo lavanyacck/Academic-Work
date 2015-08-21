@@ -1,5 +1,5 @@
 CS 4328 Project 1 Spring 2014
-Lavanya Tammineni A04377240
+Lavanya 
 
 Project Files:
 Makefile             -  Used to make the Project
